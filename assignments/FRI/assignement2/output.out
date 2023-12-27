@@ -1,0 +1,13 @@
+ERROR: Unable to locate a modulefile for 'Python/3.8.2GCCCore-9.3.0'
+--------------------------------------------------------------------------
+The SLURM process starter for OpenMPI was unable to locate a
+usable "srun" command in its path. Please check your path
+and try again.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+An internal error has occurred in ORTE:
+
+[[40962,0],0] FORCE-TERMINATE AT (null):1 - error plm_slurm_module.c(471)
+
+This is something that should be reported to the developers.
+--------------------------------------------------------------------------
